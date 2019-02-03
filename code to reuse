@@ -1,0 +1,13 @@
+            <tr>
+                <td><img src = "" width = "200"></td>
+                <td></td>
+            </tr>
+            
+            <button type="button" onclick="Bazinga();">Click Me!</button>
+            
+            function Bazinga() {
+    
+                document.getElementById("demo").innerHTML = "bazinga fools";
+                document.getElementById("demo").style.fontSize='150px';
+                alert("Bazinga");
+            }
