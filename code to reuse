@@ -11,3 +11,4 @@
                 document.getElementById("demo").style.fontSize='150px';
                 alert("Bazinga");
             }
+            <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0JCdoBm32SVzua-hnxE-o_Os6FTu8-ckuuTSVcqW34amc1GeC" >
